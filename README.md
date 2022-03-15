@@ -1,6 +1,6 @@
 # No-Youtube-reccomends
 
-This extension will convert your Youtube main page from this:
+This Chrome extension will convert your Youtube main page from this:
 
 ![image](https://user-images.githubusercontent.com/56691312/158259198-21f4a6f1-37d2-4426-a4d4-f069a7ca7c81.png)
 
